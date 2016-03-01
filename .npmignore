@@ -1,0 +1,4 @@
+bazel-*
+BUILD
+WORKSPACE
+.npmignore
